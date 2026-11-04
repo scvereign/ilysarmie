@@ -37,5 +37,5 @@ export const photos = [
   { src: "", caption: "Por muchos más 💛" },
 ];
 
-export const letter = "[ESCRIBE AQUÍ TU CARTA]";
+export const letter = "Hoy me detuve un momento a pensar en nosotros y no pude evitar sonreír. Quería escribirte esto para recordarte, de forma sencilla pero muy sincera, lo mucho que significas para mí. Eres mi rincón favorito en el mundo. Tu sonrisa me alegra los días grises, tu apoyo me da fuerzas cuando más lo necesito y tu sola presencia hace que todo sea mejor. Cada momento que pasamos juntos se convierte en un recuerdo hermoso que guardo en el corazón. Gracias por ser mi novia, mi compañera y mi confidente. Te amo con todo lo que soy, hoy y cada día más. Siempre tuyo,";
 export const signature = "Con todo mi cariño, tu esposito precioso Lulu 💛💖";
