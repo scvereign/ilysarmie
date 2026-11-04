@@ -24,8 +24,8 @@ export const reasons = [
 export const madokaText = "Me recuerdas a Madoka por tu bondad infinita y tu dulzura: iluminas todo con tu corazón enorme y haces que el mundo se sienta más suave.";
 export const mamiText = "Y me recuerdas a Mami por tu elegancia, tu fuerza y tu calidez: contigo cada momento se siente como una tarde de té perfecta.";
 // Pon aquí la URL de tu fan art (deja "" para mostrar el espacio vacío)
-export const madokaImage = "";
-export const mamiImage = "";
+export const madokaImage = "src/images/madoka.png";
+export const mamiImage = "src/images/mami.png";
 
 // Reemplaza src por la URL de cada foto (deja "" para el placeholder)
 export const photos = [
