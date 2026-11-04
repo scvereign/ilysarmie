@@ -38,12 +38,12 @@ export const mamiImage = "/images/mami.png";
 // Reemplaza src por la ruta de cada foto dentro de /public (deja "" para el placeholder)
 // Ejemplo: si guardas la foto en public/images/foto1.jpg, escribe "/images/foto1.jpg"
 export const photos = [
-  { src: "", caption: "Nuestro primer día 💖" },
-  { src: "", caption: "Esa sonrisa tuya ✨" },
-  { src: "", caption: "Frente al colegio 🎀" },
-  { src: "", caption: "Mi princesita 👑" },
-  { src: "", caption: "Tarde de té ☕" },
-  { src: "", caption: "Por muchos más 💛" },
+  { src: "/images/foto1.jpeg", caption: "Nuestro primer día 💖" },
+  { src: "/images/foto2.jpeg", caption: "Esa sonrisa tuya ✨" },
+  { src: "/images/foto3.jpeg", caption: "Frente al colegio 🎀" },
+  { src: "/images/foto4.jpeg", caption: "Mi princesita 👑" },
+  { src: "/images/foto5.jpeg", caption: "Tarde de té ☕" },
+  { src: "/images/foto6.jpeg", caption: "Por muchos más 💛" },
 ];
 
 // 💌 Escribe aquí tu carta. Usa \n\n para separar párrafos.
