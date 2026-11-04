@@ -32,8 +32,8 @@ export const madokaText = "Me recuerdas a Madoka por tu bondad infinita y tu dul
 export const mamiText = "Y me recuerdas a Mami por tu elegancia, tu fuerza y tu calidez: contigo cada momento se siente como una tarde de té perfecta.";
 // Pon aquí la ruta de tu fan art dentro de /public (deja "" para mostrar el espacio vacío)
 // Ejemplo: si guardas la imagen en public/images/madoka.png, escribe "/images/madoka.png"
-export const madokaImage = "public/images/madoka.png";
-export const mamiImage = "public/images/mami.png";
+export const madokaImage = "/images/madoka.png";
+export const mamiImage = "/images/mami.png";
 
 // Reemplaza src por la ruta de cada foto dentro de /public (deja "" para el placeholder)
 // Ejemplo: si guardas la foto en public/images/foto1.jpg, escribe "/images/foto1.jpg"
