@@ -1,4 +1,11 @@
 // ✏️ Edita aquí todos los textos y fotos de la página.
+//
+// 📷 IMÁGENES: guarda tus archivos dentro de la carpeta "public/images".
+// Luego usa la ruta empezando con "/images/", por ejemplo:
+//   public/images/foto1.jpg  ->  "/images/foto1.jpg"
+//
+// 💌 CARTA: edita el texto de "letter" (más abajo). Para separar párrafos
+// escribe \n\n dentro del texto, por ejemplo: "Hola.\n\nTe amo mucho."
 
 export const START_DATE = new Date("2026-10-15T00:00:00-05:00");
 
@@ -23,11 +30,13 @@ export const reasons = [
 
 export const madokaText = "Me recuerdas a Madoka por tu bondad infinita y tu dulzura: iluminas todo con tu corazón enorme y haces que el mundo se sienta más suave.";
 export const mamiText = "Y me recuerdas a Mami por tu elegancia, tu fuerza y tu calidez: contigo cada momento se siente como una tarde de té perfecta.";
-// Pon aquí la URL de tu fan art (deja "" para mostrar el espacio vacío)
-export const madokaImage = "src/images/madoka.png";
-export const mamiImage = "src/images/mami.png";
+// Pon aquí la ruta de tu fan art dentro de /public (deja "" para mostrar el espacio vacío)
+// Ejemplo: si guardas la imagen en public/images/madoka.png, escribe "/images/madoka.png"
+export const madokaImage = "/images/madoka.png";
+export const mamiImage = "/images/mami.png";
 
-// Reemplaza src por la URL de cada foto (deja "" para el placeholder)
+// Reemplaza src por la ruta de cada foto dentro de /public (deja "" para el placeholder)
+// Ejemplo: si guardas la foto en public/images/foto1.jpg, escribe "/images/foto1.jpg"
 export const photos = [
   { src: "", caption: "Nuestro primer día 💖" },
   { src: "", caption: "Esa sonrisa tuya ✨" },
@@ -37,5 +46,6 @@ export const photos = [
   { src: "", caption: "Por muchos más 💛" },
 ];
 
+// 💌 Escribe aquí tu carta. Usa \n\n para separar párrafos.
 export const letter = "Hoy me detuve un momento a pensar en nosotros y no pude evitar sonreír. Quería escribirte esto para recordarte, de forma sencilla pero muy sincera, lo mucho que significas para mí. Eres mi rincón favorito en el mundo. Tu sonrisa me alegra los días grises, tu apoyo me da fuerzas cuando más lo necesito y tu sola presencia hace que todo sea mejor. Cada momento que pasamos juntos se convierte en un recuerdo hermoso que guardo en el corazón. Gracias por ser mi novia, mi compañera y mi confidente. Te amo con todo lo que soy, hoy y cada día más. Siempre tuyo";
 export const signature = "Con todo mi cariño, tu esposito precioso Lulu 💛💖";

@@ -242,7 +242,7 @@ function Letter() {
         ) : (
           <div className="animate-pop rounded-3xl border-4 border-mami-soft bg-cream p-8 shadow-gold md:p-12">
             <p className="font-script text-3xl text-madoka">Mi Cami hermosa,</p>
-            <p className="font-script mt-6 whitespace-pre-line text-2xl leading-relaxed">{te amo}</p>
+            <p className="font-script mt-6 whitespace-pre-line text-2xl leading-relaxed">{letter}</p>
             <p className="font-script mt-10 text-right text-2xl text-madoka">{signature}</p>
           </div>
         )}
